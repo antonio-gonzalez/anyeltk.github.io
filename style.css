@@ -519,3 +519,7 @@ button {
   --color: #8e9eab;
   --hover: #041e32;
 }
+
+article{
+	  border: 1px solid #044357;
+}
