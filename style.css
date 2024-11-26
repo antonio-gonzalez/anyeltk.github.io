@@ -521,5 +521,7 @@ button {
 }
 
 article{
-	  border: 1px solid #044357;
+	  border: 2px solid #044357;
+	margin: 10px;
+	padding: 10px;
 }
